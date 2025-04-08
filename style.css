@@ -1,0 +1,179 @@
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    width: 1110px;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    /* padding: 28px 165px 132px 165px; */
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    gap: 56px;
+}
+
+header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    font-family: "Kumbh Sans", sans-serif;
+    color: black;
+
+}
+
+.ull {
+    display: flex;
+    gap: 33px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Oval {
+    width: 50px;
+    height: 50px;
+}
+
+.oval_div {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    margin-top: 34px;
+}
+
+.section_div {
+    padding: 90px 48px;
+}
+
+.shoes_photo {
+    width: 88px;
+    height: 88px;
+    border-radius: 10px;
+}
+
+.section_div_div {
+    display: flex;
+    gap: 31px;
+    border-radius: 10px;
+    margin-top: 32px;
+}
+
+.msection_mtavari {
+    display: flex;
+    /* padding: 152px 47px; */
+}
+
+.new_div {
+    padding: 152px 47px;
+}
+
+.section_h2 {
+    font-size: 13px;
+    color: #FF7E1B;
+    font-family: "Kumbh Sans", sans-serif;
+}
+
+.section_h3 {
+    font-size: 44px;
+    font-family: "Kumbh Sans", sans-serif;
+    margin-top: 24px;
+}
+
+.section_p {
+    font-size: 16px;
+    font-family: "Kumbh Sans", sans-serif;
+    color: #69707D;
+    margin-top: 32px;
+}
+
+.sale {
+    font-size: 28px;
+    font-family: "Kumbh Sans", sans-serif;
+
+
+}
+
+.many {
+    text-decoration: line-through;
+    font-size: 16px;
+    color: #B6BCC8;
+    margin-top: 3px;
+    margin-bottom: 32px;
+}
+
+.btn {
+
+    background-color: #FFEEE2;
+    color: #FF7E1B;
+    font-family: "Kumbh Sans", sans-serif;
+    border-radius: 5px;
+    padding: 0 10px;
+
+}
+
+.many_div {
+    display: flex;
+    margin-top: 28px;
+    gap: 23px;
+    font-family: "Kumbh Sans", sans-serif;
+}
+.butsdiv{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    
+}
+.manys_button {
+
+   
+    background-color: #F6F8FD;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: "Kumbh Sans", sans-serif;
+    color: #FF7E1B;
+    font-weight: bolder;
+}
+span{
+    color: #1D2026;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Kumbh Sans", sans-serif;
+
+
+}
+.img1{
+    width: 441px;
+}
+
+.btn2 {
+    background-color: #FF7E1B;
+    width: 272px;
+    height: 56px;
+    border-radius: 10px;
+    gap: 16px;
+    color: white;
+    font-family: "Kumbh Sans", sans-serif;
+}
+.btns_shape{
+    margin-right: 10px;
+
+}
